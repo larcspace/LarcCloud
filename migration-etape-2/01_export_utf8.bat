@@ -6,9 +6,9 @@ setlocal EnableDelayedExpansion
 :: ==========================================
 set LOCAL_HOST=localhost
 set LOCAL_PORT=5432
-set LOCAL_DB=NewLarcLocal
-set LOCAL_USER=postgres
-set LOCAL_PASS=postgres
+set LOCAL_DB=xxxx
+set LOCAL_USER=
+set LOCAL_PASS=
 
 :: Chemin vers psql (si non reconnu, décommente et ajuste le chemin)
 :: set PSQL_CMD="C:\Program Files\PostgreSQL\16\bin\psql.exe"
